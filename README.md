@@ -1,3 +1,7 @@
+# Check it out!
+
+![Alt text](/public/prostate-map.gif?raw=true "Optional Title")
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
